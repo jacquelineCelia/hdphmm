@@ -1,3 +1,19 @@
+/* -*- C++ -*-
+ *
+ * Copyright (c) 2014
+ * Spoken Language Systems Group
+ * MIT Computer Science and Artificial Intelligence Laboratory
+ * Massachusetts Institute of Technology
+ *
+ * All Rights Reserved
+
+./config.h
+ *	FILE: cluster.cc 				                                *
+ *										                            *
+ *   				      				                            * 
+ *   Chia-ying (Jackie) Lee <chiaying@csail.mit.edu>				*
+ *   Feb 2014							                            *
+*********************************************************************/
 #ifndef CONFIG_H
 #define CONFIG_H
 
